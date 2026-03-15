@@ -42,7 +42,7 @@ This project demonstrates the design and implementation of a relational database
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/employee-department-management-system-mysql.git
+git clone https://github.com/TanmayT134/employee-department-management-system-mysql.git
 
 ### 2. Open MySQL Workbench
 
