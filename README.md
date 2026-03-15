@@ -38,6 +38,14 @@ This project demonstrates the design and implementation of a relational database
 - DateOfJoining
 - Email
 
+## Project Screenshots
+
+### Tables Created
+![Tables](Screenshots/createdTables)
+
+### Query Execution
+![Queries](screenshots/query_execution.png)
+
 ## Author
 
 Tanmay Tawade
