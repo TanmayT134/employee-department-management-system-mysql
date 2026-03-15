@@ -40,11 +40,17 @@ This project demonstrates the design and implementation of a relational database
 
 ## Project Screenshots
 
+### Databse Created
+![Database](Screenshots/createdDatabase)
+
 ### Tables Created
 ![Tables](Screenshots/createdTables)
 
-### Query Execution
-![Queries](screenshots/query_execution.png)
+### Departments Table
+![Departments Table](Screenshots/Departments_Tables)
+
+### Employees Table
+![Employees Table](Screenshots/Employees_Table)
 
 ## Author
 
