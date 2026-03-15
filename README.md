@@ -61,16 +61,16 @@ git clone https://github.com/TanmayT134/employee-department-management-system-my
 ## Project Screenshots
 
 ### Databse Created
-![Database](Screenshots/createdDatabase)
+![Database](Screenshots/createdDatabase.png)
 
 ### Tables Created
-![Tables](Screenshots/createdTables)
+![Tables](Screenshots/createdTables.png)
 
 ### Departments Table
-![Departments Table](Screenshots/Departments_Table)
+![Departments Table](Screenshots/Departments_Table.png)
 
 ### Employees Table
-![Employees Table](Screenshots/Employees_Table)
+![Employees Table](Screenshots/Employees_Table.png)
 
 ## Author
 
