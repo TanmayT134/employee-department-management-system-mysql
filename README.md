@@ -47,7 +47,7 @@ This project demonstrates the design and implementation of a relational database
 ![Tables](Screenshots/createdTables)
 
 ### Departments Table
-![Departments Table](Screenshots/Departments_Tables)
+![Departments Table](Screenshots/Departments_Table)
 
 ### Employees Table
 ![Employees Table](Screenshots/Employees_Table)
