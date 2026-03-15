@@ -40,20 +40,23 @@ This project demonstrates the design and implementation of a relational database
 
 ## How to Run the Project
 
-1. Clone the repository
+### 1. Clone the repository
 
 git clone https://github.com/your-username/employee-department-management-system-mysql.git
 
-2. Open MySQL Workbench
+### 2. Open MySQL Workbench
 
-3. Run the SQL files in order:
+### 3. Run the SQL files in order:
 
 01_DeptEmp.sql
+
 02_insert_scenarios.sql
+
 03_where_queries.sql
+
 04_groupby_queries.sql
 
-4. Execute the remaining query files to test operations.
+### 4. Execute the remaining query files to test operations.
 
 ## Project Screenshots
 
